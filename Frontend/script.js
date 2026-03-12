@@ -13,3 +13,8 @@ dropdown.value = internship
 })
 
 })
+
+
+function closePopup(){
+document.getElementById("popup").style.display="none";
+}
